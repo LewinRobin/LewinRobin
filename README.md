@@ -3,5 +3,5 @@
 - 🌱 I’m currently learning React.js, Tailwind.css and Next.js
 - 💻 I have experience with C, Python, HTML, CSS, and JavaScript.  
 - 💞️ I’m looking to collaborate on developing websites and applications.  
-- 📧 Email: [lewinro10@gmail.com](lewinro10@gmail.com)  
+- 📧 Email: lewinro10@gmail.com  
 - ⚡ Fun fact: I use Neovim, BTW! 😏  
